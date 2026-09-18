@@ -1,0 +1,5 @@
+node_modules/
+transcripts/*.txt
+memos/*.wav
+*.log
+.DS_Store
