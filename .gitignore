@@ -3,3 +3,10 @@ transcripts/*.txt
 memos/*.wav
 *.log
 .DS_Store
+
+# Mobile / Expo
+mobile/node_modules/
+mobile/android/.gradle/
+mobile/android/app/build/
+mobile/android/build/
+mobile/.expo/
